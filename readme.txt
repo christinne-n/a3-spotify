@@ -1,4 +1,4 @@
---Readme document for Christine Nguyen, chrisln4@uci.edu, 70228903 && Timothy Le, leth4@uci.edu--
+--Readme document for Christine Nguyen, chrisln4@uci.edu, 70228903 && Timothy Le, leth4@uci.edu, 87088090--
 -- A3 group 19 ; repo: https://github.com/christinne-n/a3-spotify --
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
