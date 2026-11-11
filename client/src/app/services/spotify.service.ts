@@ -61,7 +61,7 @@ export class SpotifyService {
     });
   }
 
-  getArtist(artistId:string):Promise<ArtistData> {
+  getArtist(artistId:string):Promise<ArtistData> { // each get func requests specific info from express
     var endpoint:string = '/artist/' + encodeURIComponent(artistId);
     return this.sendRequestToExpress(endpoint).then((data) => {
       return new ArtistData(data);
